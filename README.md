@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Pantera0747
-- 👀 I’m interested in Programming 
+- 👋 Hi, I’m Gershon
+- 👀 I’m interested in Data Science
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me on whatsapp +233207099729 
